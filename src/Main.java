@@ -25,6 +25,7 @@ public class Main {
                 new Person("David", 42)
         };
         System.out.println("Before sorting: ");
+
         for (Person p : people) {
             System.out.println(p);
         }
